@@ -34,12 +34,12 @@ li {
 
 #header {
     width: 980px;
-    height: 120px;
+    height: 100px;
     margin-top: 20px;
 }
 
 #title {
-    font-size: 80px;
+    font-size: 50px;
     float: left;
     margin-top: 10px;
     margin-left: 10px;
